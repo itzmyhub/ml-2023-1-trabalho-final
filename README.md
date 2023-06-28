@@ -22,7 +22,7 @@ Utilizar alguma técnica de aprendizado de máquina exposta em alguma aula ou pr
 
 Um site que possui muitos datasets disponíveis é o Kaggle (https://www.kaggle.com/datasets). É aceito utilizar datasets de outras fontes. Independente do dataset, é necessário colocar no artigo a fonte (com link, caso disponível online) que vocês o encontraram. O site Kaggle também tem diversos códigos de exemplo de outras pessoas. Caso utilizem algum código de exemplo como base, modifique-o o suficiente para que o trabalho apresente diferenças quanto ao código disponível no site. Faça o upload do dataset no seu repositório.
 
-## Escrever um artigo entre 3 e 5 páginas a respeito da técnica utilizada. O artigo deverá conter:
+Escrever um artigo entre 3 e 5 páginas a respeito da técnica utilizada. O artigo deverá conter:
 
 * Introdução
 * Metodologia
